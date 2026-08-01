@@ -1,0 +1,20 @@
+Sitemap https://www.travelgo.com/sitemap.xml
+User-agent: Googlebot
+Allow: /
+Disallow: /tapi/* 
+Disallow: /*/hotel/hotelMonitorLog
+Disallow: /*/hotel/book*
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /tapi/* 
+Disallow: /*/hotel/hotelMonitorLog
+Disallow: /*/hotel/book*
+
+User-agent: *
+Allow: /iflight/book1.html*
+Disallow: /
+Allow: /*hotel/*
+Disallow: /tapi/* 
+Disallow: /*/hotel/hotelMonitorLog
+Disallow: /*/hotel/book*

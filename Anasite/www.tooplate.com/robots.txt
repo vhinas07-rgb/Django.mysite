@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /download/
+Disallow: /external/
+Disallow: /live/
+Disallow: /templates/
+Sitemap: https://www.tooplate.com/sitemap.xml

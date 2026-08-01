@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="https://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://www.tooplate.com/contact" />
+    <title>Contact Tooplate</title>
+    <meta name="description" content="Contact Tooplate support for any kind of inquiry about free html css templates">
+    <meta name="author" content="tooplate">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@100;200;400;600&display=swap" rel="stylesheet">
+    <link href="/css/tooplate-all-20210722.css" rel="stylesheet">
+    <link href="/tooplate-style-2607.css?v=20260716" rel="stylesheet">
+    <link rel="stylesheet" href="/tooplate-prompt-banner.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <!--<script data-ad-client="ca-pub-4847506191651249" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-732601-15"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-732601-15');
+</script>
+        <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5bd821e07a0efc00111a3c49&product=inline-share-buttons' async='async'></script>
+  </head>
+
+  <body>
+        <!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v3.3'
+    });
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="436853933084230"
+  theme_color="#40A9A9"
+  logged_in_greeting="Hi! How can we help you? Welcome to Tooplate LIVE Chat."
+  logged_out_greeting="Hi! How can we help you? Welcome to Tooplate LIVE Chat.">
+</div>
+<div id="container" class="container">
+        
+        <div id="header" class="row">
+        	<div class="col-md-4 logo">
+        		<a href="https://www.tooplate.com"><img src="/images/tooplate_logo.png" alt="tooplate" title="free templates" width="260" height="80" class="img-responsive" /></a>
+        		<div class="slogan">free HTML templates for your websites</div>
+            </div>
+            <div class="col-md-8">
+            	<ul class="nav tooplate_nav">
+                	<li><a href="/">Home</a></li>                  	<li><a href="/free-templates">Free HTML Templates</a></li>
+                    <li><a href="https://templatemo.com/page/1" rel="sponsored">620+ CSS Templates</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+		<div id="header_line"></div>
+        
+				<div class="row space20"> <!-- row 1 begins --> 
+        
+            <div class="col-md-8 too_et">
+              	<h1>Contact Tooplate</h1>
+        <p>You may send an email to <strong>contact</strong> [at] tooplate.com for any kind of question. <br />Also, you can <a rel="nofollow" href="https://m.me/tooplate">message us</a> on <a rel="nofollow" href="https://fb.com/tooplate">our Facebook page</a> to get a quick response back.</p>
+        <br /> 
+        <h2 class="subtitle">Common Questions about our free templates</h2>   <br /> 
+     <ol>
+    	<li><strong>How to make HTML contact form to send email?</strong><br />
+        You may try this <a rel="nofollow" href="https://ltcclock.com/downloads/simple-contact-form">contact form</a> scripts.<br />
+        &nbsp;</li>
+        
+        <li><strong>Can I support Tooplate website?</strong><br />
+        Please make a PayPal donation to contact [at] tooplate.com and you may spread a word about Tooplate to your friends. Thank you.
+        <div class="clear space30"></div>
+        <div class="sharethis-inline-share-buttons"></div>
+        &nbsp;</li>
+      	
+        <li><strong>Are templates free for any kind of use?</strong><br />
+        Yes, they are completely free to use for your personal, educational, and commercial websites.<br />
+        &nbsp;</li>
+        <li><strong>Can I modify any template to make my client website?</strong><br />
+       Yes, you can modify and use our templates to charge your clients for your service.<br />
+       &nbsp;</li>
+       	<li><strong>Can I delete credit links from website templates?</strong><br />
+        Yes, you can delete the credit links.<br />
+        &nbsp;</li>
+        <li><strong>Can I redistribute templates on my website?</strong><br />
+       No, please do not redistribute our template on any other template website. This is not allowed. Please read <a href="/about">about us</a> page.<br />
+       &nbsp;</li>
+        
+    </ol>     
+            </div>
+        
+            <div class="col-md-3"></div>
+ 
+        </div> <!-- /row 1 -->      <!-- Site footer -->
+      <div class="footer">
+        <p>Copyright © 2026 <a href="https://www.tooplate.com/free-templates">Free HTML Templates</a> by Tooplate - <a href="/about">About</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/sitemap.html">Sitemap</a></p>
+      </div>
+
+    </div> <!-- /container -->
+		<script src="/tooplate-prompt-banner.js"></script>
+
+<script>
+document.querySelectorAll('a.btn[href*="/download/"]').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        var last = localStorage.getItem('timermo_visit');
+        var now = Date.now();
+        if (!last || now - last > 86400000) {
+            window.open('https://www.timermo.com/?utm_source=tooplate&utm_medium=download&utm_campaign=redirect', '_blank');
+            localStorage.setItem('timermo_visit', now);
+        }
+    });
+});
+</script>
+  </body>
+</html>

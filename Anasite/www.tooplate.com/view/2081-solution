@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="https://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://www.tooplate.com/view/2081-solution" />
+    <title>Solution HTML Template by Tooplate</title>
+    <meta name="description" content="Solution is one-page fully responsive template that can be fit for many different websites. It includes FontAwesome icons, pricing tables,...">
+    
+    <meta itemprop="name" content="Solution HTML Template by Tooplate">
+	<meta itemprop="description" content="Solution is one-page fully responsive template that can be fit for many different websites. It includes FontAwesome icons, pricing tables,...">
+	<meta itemprop="image" content="/screenshots-720/template-2081-solution.jpg">
+
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.tooplate.com/view/2081-solution" />
+    <meta property="og:title" content="Solution HTML Template by Tooplate" />
+    <meta property="og:headline" content="Solution HTML Template by Tooplate" />
+    <meta property="og:image" content="/screenshots-720/template-2081-solution.jpg" />
+    <meta property="og:site_name" content="tooplate" />
+    <meta property="og:description" content="Solution is one-page fully responsive template that can be fit for many different websites. It includes FontAwesome icons, pricing tables,..." />
+    
+    <meta name="author" content="tooplate">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@100;200;400;600&display=swap" rel="stylesheet">
+    <link href="/css/tooplate-all-20210722.css" rel="stylesheet">
+    <link href="/tooplate-style-2607.css?v=20260716" rel="stylesheet">
+    <link rel="stylesheet" href="/tooplate-prompt-banner.css">
+        <script src="/cmp.js"></script>
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <!--<script data-ad-client="ca-pub-4847506191651249" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-732601-15"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-732601-15');
+</script>
+    <!-- Tooplate Banner Heading --> 
+<script>
+  window.googletag = window.googletag || {};
+  window.googletag.cmd = window.googletag.cmd || [];
+  window.googletag.cmd.push(() => {
+    window.googletag.pubads().enableAsyncRendering();
+    window.googletag.pubads().disableInitialLoad();
+  }
+  );
+  const injectPgScript = (src, isAsync, onLoadCallback) => {
+    if (!src)
+      return;
+    const script = document.createElement("script");
+    script.src = src;
+    if (isAsync)
+      script.async = isAsync;
+    if (onLoadCallback)
+      script.onload = onLoadCallback;
+    document.head.appendChild(script);
+  }
+    ;
+  const initiatePgAds = () => {
+    !!window.__tcfapi && window.__tcfapi("addEventListener", 2, (tcData, success) => {
+      if (success && (tcData.eventStatus === "useractioncomplete" || tcData.eventStatus === "tcloaded" || tcData.gdprApplies === false)) {
+        if (!window._initAds) {
+          window._initAds = true;
+          injectPgScript("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", true);
+          injectPgScript("//dsh7ky7308k4b.cloudfront.net/publishers/tooplatecom.min.js", true);
+          injectPgScript("//btloader.com/tag?o=5184339635601408&upapi=true", true);
+        }
+      }
+    }
+    );
+  }
+    ;
+  injectPgScript("https://securepubads.g.doubleclick.net/tag/js/gpt.js?network-code=8095840", true, () => {
+    window.googlefc = window.googlefc || {
+      callbackQueue: []
+    };
+    window.googlefc.callbackQueue.push({
+      "CONSENT_API_READY": () => initiatePgAds()
+    });
+  }
+  );
+</script>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5bd821e07a0efc00111a3c49&product=inline-share-buttons' async='async'></script>
+  </head>
+
+  <body>
+        <div id="container" class="container">
+        
+        <div id="header" class="row">
+        	<div class="col-md-4 logo">
+        		<a href="https://www.tooplate.com"><img src="/images/tooplate_logo.png" alt="tooplate" title="free templates" width="260" height="80" class="img-responsive" /></a>
+        		<div class="slogan">free HTML templates for your websites</div>
+            </div>
+            <div class="col-md-8">
+            	<ul class="nav tooplate_nav">
+                	<li><a href="/">Home</a></li>                  	<li><a href="/free-templates">Free HTML Templates</a></li>
+                    <li><a href="https://templatemo.com/page/1" rel="sponsored">620+ CSS Templates</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+		<div id="header_line"></div>
+        
+				<!-- Tooplate Banner Top --> 
+<div class="row space20 too_banner">
+
+    <!-- TAGNAME: Desktop Horizontal Top -->
+    <div id='tooplatecom47398'>
+    </div>
+    <!-- TAGNAME: Mobile Top -->
+    <div id='tooplatecom47401'>
+    </div>
+
+</div>
+
+        <div class="row space20"> <!-- row 2 --> 
+        	
+            <div class="col-md-5 col-lg-5 too_et sticky-wrap">
+            	<h1>Solution HTML Template</h1>
+                <p class="text-justify">Solution is one-page fully responsive template that can be fit for many different websites. It includes FontAwesome icons, pricing tables, portfolio, contact form, and maps.</p>
+                <p>You are allowed to use this template for your commercial project. You can <a href="/about">read more</a> about Solution template free usage rights.</p>
+                <p><strong>Created:</strong> 16 May 2016 
+                <br /><strong>Views:</strong> 123,726 &nbsp;&nbsp;&nbsp; <strong>Downloads:</strong> 22,570</p>
+                <div class="clear space20"></div>
+                <a href="/live/2081_solution" target="_blank" class="btn btn-info btn-lg btn-margin">Live View</a>
+                <a href="/download/2081_solution" class="btn btn-primary btn-lg btn-margin">Download</a>
+                <a href="/html-templates/2081-solution.jpg" class="btn btn-success btn-lg btn-margin">Full-size Screenshot</a>
+                <a rel="sponsored" href="https://www.ltcclock.com/downloads/simple-contact-form/" class="btn btn-success btn-lg btn-margin" role="button">Contact Form PHP Script</a>
+                <a rel="sponsored" href="https://www.toocss.com" class="btn btn-warning btn-lg btn-margin" role="button">Too CSS Blog</a>	
+                <div class="clear space20"></div>
+                <a class="banner-link" id="banner">
+  <div class="banner-grid"></div>
+
+  <!-- Shape 1: Portfolio — portfolio site wireframe -->
+  <div class="banner-shape is-active" id="shapePortfolio">
+    <div class="port-glow"></div>
+    <div class="port-browser">
+      <div class="port-bar">
+        <div class="port-bar-dot"></div>
+        <div class="port-bar-dot"></div>
+        <div class="port-bar-dot"></div>
+        <div class="port-bar-url"></div>
+      </div>
+      <div class="port-body">
+        <div class="port-sidebar">
+          <div class="port-nav-dot is-active-dot"></div>
+          <div class="port-nav-dot"></div>
+          <div class="port-nav-dot"></div>
+          <div class="port-nav-line"></div>
+          <div class="port-nav-line"></div>
+        </div>
+        <div class="port-main">
+          <div class="port-profile">
+            <div class="port-avatar"></div>
+            <div class="port-profile-lines">
+              <div class="port-profile-line"></div>
+              <div class="port-profile-line"></div>
+            </div>
+          </div>
+          <div class="port-grid">
+            <div class="port-project"><div class="port-project-img"></div><div class="port-project-label"><div class="port-project-label-line"></div></div></div>
+            <div class="port-project"><div class="port-project-img"></div><div class="port-project-label"><div class="port-project-label-line"></div></div></div>
+            <div class="port-project"><div class="port-project-img"></div><div class="port-project-label"><div class="port-project-label-line"></div></div></div>
+            <div class="port-project"><div class="port-project-img"></div><div class="port-project-label"><div class="port-project-label-line"></div></div></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="port-cursor"></div>
+  </div>
+
+  <!-- Shape 2: Landing — browser wireframe -->
+  <div class="banner-shape" id="shapeLanding">
+    <div class="land-glow"></div>
+    <div class="land-browser">
+      <div class="land-bar">
+        <div class="land-bar-dot"></div>
+        <div class="land-bar-dot"></div>
+        <div class="land-bar-dot"></div>
+        <div class="land-bar-url"></div>
+      </div>
+      <div class="land-hero">
+        <div class="land-hero-line"></div>
+        <div class="land-hero-line"></div>
+        <div class="land-hero-btn"></div>
+      </div>
+      <div class="land-features">
+        <div class="land-feat"><div class="land-feat-icon"></div><div class="land-feat-line"></div></div>
+        <div class="land-feat"><div class="land-feat-icon"></div><div class="land-feat-line"></div></div>
+        <div class="land-feat"><div class="land-feat-icon"></div><div class="land-feat-line"></div></div>
+      </div>
+      <div class="land-content">
+        <div class="land-content-line"></div>
+        <div class="land-content-line"></div>
+      </div>
+      <div class="land-cta-block">
+        <div class="land-cta-btn"></div>
+      </div>
+    </div>
+    <div class="land-arrow"></div>
+  </div>
+
+  <!-- cursor glow -->
+  <div class="banner-glow" id="bannerGlow"></div>
+
+  <!-- TABS -->
+  <div class="banner-tabs">
+    <div class="banner-tabs-track" id="tabsTrack">
+      <button class="banner-tab is-active" data-tab="0" type="button">Portfolio</button>
+      <button class="banner-tab" data-tab="1" type="button">Landing Page</button>
+      <div class="banner-tab-indicator" id="tabIndicator"></div>
+    </div>
+  </div>
+
+  <!-- SLIDES -->
+  <div class="banner-slides">
+    <div class="banner-slide is-active" data-slide="0">
+      <div class="banner-badge banner-badge--portfolio">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><path d="M8 21h8"/><path d="M12 17v4"/></svg>
+        Free AI Tool
+      </div>
+      <div class="banner-title">Portfolio Page <span class="t-portfolio">Prompt Generator</span></div>
+      <div class="banner-desc">Create AI-ready prompts to build your portfolio website in seconds.</div>
+      <div class="banner-cta banner-cta--portfolio">
+        Try It Free
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </div>
+    </div>
+
+    <div class="banner-slide" data-slide="1">
+      <div class="banner-badge banner-badge--landing">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6"/><path d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/></svg>
+        Free AI Tool
+      </div>
+      <div class="banner-title">Landing Page <span class="t-landing">Prompt Generator</span></div>
+      <div class="banner-desc">Generate AI prompts for a high-converting landing page instantly.</div>
+      <div class="banner-cta banner-cta--landing">
+        Try It Free
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </div>
+    </div>
+  </div>
+
+  <!-- progress bar -->
+  <div class="banner-progress">
+    <div class="banner-progress-bar is-portfolio" id="progressBar"></div>
+  </div>
+</a>            </div>
+            
+            <div class="col-md-7 col-lg-7 sticky-wrap">
+                <img src="/screenshots-720/template-2081-solution.jpg" alt="Solution HTML Template" class="img-responsive img_bottom" width="720" height="2871" />
+            </div>
+        </div>
+        
+                
+        <div class="row space10"> <!-- row 3 --> 
+        
+            <div class="col-md-9 col-md-offset-2 col-lg-8 col-lg-offset-2 too_et">
+                <div class="clear space30">&nbsp;</div>
+                <div class="sharethis-inline-share-buttons"></div>
+                <div class="clear space30"></div>
+            </div>
+
+        </div> <!-- /row 3 -->   
+        
+        <!-- Row 4: Featured Banners -->
+        <div class="featured-banners">
+            <div class="row space10">
+                <div class="col-xs-6 col-sm-3 col-md-offset-2">
+                    <a href="https://timermo.com" rel="nofollow" target="_blank">
+                        <img src="/banners/your-online-timer-360x240-01.jpg" 
+                             alt="Your Online Timer" 
+                             class="img-responsive" 
+                             width="300" height="200"
+                             loading="lazy">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <a href="https://websitevice.com" rel="nofollow" target="_blank">
+                        <img src="/banners/websitevice-300x200.jpg" 
+                             alt="Website Design Examples" 
+                             class="img-responsive" 
+                             width="300" height="200"
+                             loading="lazy">
+                    </a>
+                </div>
+                <div class="col-xs-6 col-sm-3">
+                    <a href="https://templatemo.com" rel="nofollow" target="_blank">
+                        <img src="/banners/templatemo-480x320-01.jpg" 
+                             alt="600+ CSS Templates" 
+                             class="img-responsive" 
+                             width="300" height="200"
+                             loading="lazy">
+                    </a>
+                </div>
+                <!-- more banners... -->
+            </div>
+        </div>
+        
+        <!-- Tooplate Banner Bottom -->
+	<div class="row too_banner"> <!-- row 6 -->
+    	<!-- TAGNAME: Desktop Horizontal Bottom -->
+        <div id='tooplatecom47400'>
+        </div>
+    	<!-- TAGNAME: Mobile Bottom -->
+        <div id='tooplatecom47403'>
+        </div>
+    </div> <!-- /row 6 -->
+    
+    	<div class="row space20"> <!-- row 4.1 -->
+        	<div class="col-md-12 col-sm-12 too_et">
+            	<h2>Other Free HTML Templates</h2>
+            </div>
+        </div>
+        <div class="row space20"> <!-- row 4.2 --> 
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2085-neuron" title="Neuron Blog HTML Template"><img src="/thumbnails/tooplate-2085-neuron.jpg" alt="Neuron Blog HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2085-neuron">Neuron Blog</a></h2>
+                <p>Neuron template has a particle effect on homepage. One column blog post, image gallery, about page, and contact page are...</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2084-zipper" title="Zipper HTML Template"><img src="/thumbnails/tooplate-2084-zipper.jpg" alt="Zipper HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2084-zipper">Zipper</a></h2>
+                <p>Zipper HTML Template is very simple layout with background images and effective design to use for your website.</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2083-steak-house" title="Steak House HTML Template"><img src="/thumbnails/tooplate-2083-steak-house.jpg" alt="Steak House HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2083-steak-house">Steak House</a></h2>
+                <p>Steak House is a parallax HTML website template. Food menu, slider, gallery, about, and contact sections are included. Homepage...</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2082-pure-mix" title="Pure Mix 6 pages HTML Template"><img src="/thumbnails/tooplate-2082-pure-mix.jpg" alt="Pure Mix 6 pages HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2082-pure-mix">Pure Mix 6 pages</a></h2>
+                <p>Pure Mix is a clean design with 6 different pages. This template uses a full page menu with fade in out. Blog, project, about...</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2080-minimax" title="Minimax HTML Template"><img src="/thumbnails/tooplate-2080-minimax.jpg" alt="Minimax HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2080-minimax">Minimax</a></h2>
+                <p>Minimax HTML5 Template consists of portfolio, pricing, and contact form. This is Bootstrap v3.3.5 responsive clean and simple...</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2079-garage" title="Garage Bootstrap Theme HTML Template"><img src="/thumbnails/tooplate-2079-garage.jpg" alt="Garage Bootstrap Theme HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2079-garage">Garage Bootstrap Theme</a></h2>
+                <p>Garage Theme includes drop-down menu, search box with price range slider, car gallery sorting, and contact form. Bootstrap...</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2078-adventure" title="Adventure Bootstrap Theme HTML Template"><img src="/thumbnails/tooplate-2078-adventure.jpg" alt="Adventure Bootstrap Theme HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2078-adventure">Adventure Bootstrap Theme</a></h2>
+                <p>Adventure is free Bootstrap parallax theme. Homepage image slider with thumbnails, content carousel, accordion, lightbox image...</p></div>
+        </div>
+        	<div class="col-xs-6 col-sm-4 col-md-3 tooplate_box">
+                <a href="/view/2077-modern-town" title="Modern Town HTML Template"><img src="/thumbnails/tooplate-2077-modern-town.jpg" alt="Modern Town HTML Template" class="img-responsive img_bottom" width="290" height="290" loading="lazy" /></a>
+            <div class="box_title"><h2><a href="/view/2077-modern-town">Modern Town</a></h2>
+                <p>Modern Town is a fully responsive HTML5 parallax theme based on Bootstrap v3.3.5 framework. This theme is smoothly animated and...</p></div>
+        </div>
+    		</div> <!-- /row 4 -->      <!-- Site footer -->
+      <div class="footer">
+        <p>Copyright © 2026 <a href="https://www.tooplate.com/free-templates">Free HTML Templates</a> by Tooplate - <a href="/about">About</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/sitemap.html">Sitemap</a></p>
+      </div>
+
+    </div> <!-- /container -->
+		    
+<!-- Change the ad setting link. We usually recomend putting them in the footer of your website -->
+<!-- Change Consent Option FundingChoices -->
+
+<div id="fluid-privacy-opt-out-link" onmouseover="this.style.color='rgb(25, 103, 210)'; this.style.cursor='pointer'"
+  onmouseout="this.style.color='#CCCCCC'; this.style.cursor='auto'"></div>
+<script>
+  const privacyOptOutLink = document.getElementById("fluid-privacy-opt-out-link");
+  window.googlefc = window.googlefc || { callbackQueue: [] };
+  window.googlefc.ccpa = window.googlefc.ccpa || {}
+  window.googlefc.callbackQueue.push(
+    {
+      "CONSENT_API_READY": () => {
+        if (!privacyOptOutLink) {
+          return;
+        }
+        privacyOptOutLink.addEventListener("click", () => googlefc.showRevocationMessage());
+        !!window.__tcfapi && window.__tcfapi("addEventListener", 2, (tcData, success) => {
+          if (success && tcData.gdprApplies) {
+            privacyOptOutLink.innerText = "Change GDPR Consent";
+            return;
+          }
+          if (googlefc.ccpa.InitialCcpaStatusEnum() === googlefc.ccpa.InitialCcpaStatusEnum.NOT_OPTED_OUT) {
+            window.googlefc.ccpa.overrideDnsLink = true;
+            privacyOptOutLink.innerText = "Don't sell or share my personal info";
+            privacyOptOutLink.addEventListener("click", () => googlefc.ccpa.openConfirmationDialog((optedOut) => {
+              if (optedOut) {
+                privacyOptOutLink.style.display = "none";
+              }
+            }));
+            return
+          }
+        });
+      }
+    });
+</script>
+<script src="/tooplate-prompt-banner.js"></script>
+
+<script>
+document.querySelectorAll('a.btn[href*="/download/"]').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        var last = localStorage.getItem('timermo_visit');
+        var now = Date.now();
+        if (!last || now - last > 86400000) {
+            window.open('https://www.timermo.com/?utm_source=tooplate&utm_medium=download&utm_campaign=redirect', '_blank');
+            localStorage.setItem('timermo_visit', now);
+        }
+    });
+});
+</script>
+  </body>
+</html>
