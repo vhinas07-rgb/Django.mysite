@@ -1,0 +1,39 @@
+*__pycache__/
+*.pyc
+venv/
+db.sqlite3
+venv/
+__pycache__/
+*.pyc
+.env
+__pycache__/
+*.pyc
+venv/
+# Virtual Environment
+venv/
+env/
+*.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+db.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# پوشه‌ی قالب دانلودی که ربطی به پروژه نداره
+بررسی_قالب_انتخابی*/
+
+# Static files collected (اگه از collectstatic استفاده می‌کنی)
+staticfiles/
+
+# OS files
+.DS_Store
+Thumbs.db
