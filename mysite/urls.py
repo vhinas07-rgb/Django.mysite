@@ -21,5 +21,5 @@ urlpatterns =[
     path('admin/', admin.site.urls),
     path('',include('Anasite.urls')),
 
-    #  path('blog/',include('blog.urls'))
+    path('blog/',include('blog.urls'))
                  ]

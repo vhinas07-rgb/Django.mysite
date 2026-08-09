@@ -1,0 +1,128 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+
+<head>
+    <!-- Mobile Specific Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{% static 'img/fav.png' %}">
+
+    <!-- Meta -->
+    <meta charset="UTF-8">
+    <meta name="author" content="colorlib">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <!-- Page Title -->
+    <title>
+        {% block title %}
+            Travel
+        {% endblock %}
+    </title>
+
+    <!-- CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="{% static 'css/linearicons.css' %}">
+    <link rel="stylesheet" href="{% static 'css/font-awesome.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}">
+    <link rel="stylesheet" href="{% static 'css/magnific-popup.css' %}">
+    <link rel="stylesheet" href="{% static 'css/jquery-ui.css' %}">
+    <link rel="stylesheet" href="{% static 'css/nice-select.css' %}">
+    <link rel="stylesheet" href="{% static 'css/animate.min.css' %}">
+    <link rel="stylesheet" href="{% static 'css/owl.carousel.css' %}">
+    <link rel="stylesheet" href="{% static 'css/main.css' %}">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header id="header">
+
+        <div class="header-top">
+            <div class="container">
+                <div class="row align-items-center">
+
+                    <div class="col-lg-6 col-sm-6">
+                        <p>
+                            <span class="lnr lnr-envelope"></span>
+                            info@travelagency.com
+                        </p>
+                    </div>
+
+                    <div class="col-lg-6 col-sm-6 text-right">
+                        <a href="#"><i class="fa fa-facebook"></i></a>
+                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-instagram"></i></a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="header-area">
+            <div class="container">
+
+                <div class="row align-items-center">
+
+                    <div class="col-lg-3">
+                        <div class="logo">
+                            <a href="/">
+                                <h3>Travel</h3>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-9">
+                        <nav>
+                            <ul class="d-flex justify-content-end" style="list-style:none; gap:20px;">
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about">About</a></li>
+                                <li><a href="/contact">Contact</a></li>
+                                <li><a href="/Blog"></a></li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+    </header>
+
+    <!-- Main Content -->
+    {% block content %}
+    {% endblock %}
+
+    <!-- Footer -->
+
+    <footer class="footer-area section-gap">
+        <div class="container">
+
+            <!-- اینجا تمام کد Footer خودت را بدون تغییر قرار بده -->
+
+        </div>
+    </footer>
+
+    <!-- JS -->
+
+    <script src="{% static 'js/vendor/jquery-2.2.4.min.js' %}"></script>
+    <script src="{% static 'js/popper.min.js' %}"></script>
+    <script src="{% static 'js/vendor/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/jquery-ui.js' %}"></script>
+    <script src="{% static 'js/easing.min.js' %}"></script>
+    <script src="{% static 'js/hoverIntent.js' %}"></script>
+    <script src="{% static 'js/superfish.min.js' %}"></script>
+    <script src="{% static 'js/jquery.ajaxchimp.min.js' %}"></script>
+    <script src="{% static 'js/jquery.magnific-popup.min.js' %}"></script>
+    <script src="{% static 'js/jquery.nice-select.min.js' %}"></script>
+    <script src="{% static 'js/owl.carousel.min.js' %}"></script>
+    <script src="{% static 'js/mail-script.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+
+</body>
+
+</html>

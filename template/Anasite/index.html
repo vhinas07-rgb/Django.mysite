@@ -1,35 +1,154 @@
-{% load static %} 
-<!DOCTYPE html>
-<html lang="en">
+{% extends 'base.html' %}
+{% load static %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>index</title>
-    <link rel="stylesheet" href= "{% static 'test.css' %}">  
-    <style>
-         /* h1{
-            color:blue
-       } */
-    </style>
-    
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+{% block title %}
+Home
+{% endblock %}
 
-</head>
-<body>
-    <h1>Hello, my name is Anahita</h1>
-    <a href="">hello</a>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
-</body>
+{% block content %}
 
-</html>
+<!-- Hero Banner -->
+<section class="banner-area relative">
+    <div class="overlay overlay-bg"></div>
+
+    <div class="container">
+        <div class="row fullscreen align-items-center justify-content-center">
+            <div class="banner-content col-lg-8 text-center">
+
+                <h6 class="text-white">
+                    Welcome to my Django Website
+                </h6>
+
+                <h1 class="text-white">
+                    Hello, I'm Anahita
+                </h1>
+
+                <p class="text-white">
+                    Learning Django • Python • Web Development
+                </p>
+
+                <a href="/about" class="primary-btn">
+                    Learn More
+                </a>
+
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<!-- About -->
+
+<section class="section-gap">
+    <div class="container">
+
+        <div class="row justify-content-center">
+
+            <div class="col-lg-8 text-center">
+
+                <h2>About This Website</h2>
+
+                <p class="mt-4">
+                    This website is built with Django and Bootstrap.
+                    It is my first practice project for learning Django
+                    Template Inheritance, Static Files and URL Routing.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+<!-- Services -->
+
+<section class="other-issue-area section-gap">
+
+    <div class="container">
+
+        <div class="row justify-content-center">
+
+            <div class="menu-content pb-70 col-lg-8">
+
+                <div class="title text-center">
+
+                    <h1>What You Can Find Here</h1>
+
+                    <p>Simple examples created while learning Django.</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <div class="col-lg-4">
+
+                <div class="single-other-issue">
+
+                    <div class="thumb">
+                        <img class="img-fluid" src="{% static 'img/o1.jpg' %}" alt="">
+                    </div>
+
+                    <h4 class="mt-3">
+                        Django
+                    </h4>
+
+                    <p>
+                        Learning Views, URLs and Template Inheritance.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="single-other-issue">
+
+                    <div class="thumb">
+                        <img class="img-fluid" src="{% static 'img/o2.jpg' %}" alt="">
+                    </div>
+
+                    <h4 class="mt-3">
+                        Python
+                    </h4>
+
+                    <p>
+                        Building backend applications using Python.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-4">
+
+                <div class="single-other-issue">
+
+                    <div class="thumb">
+                        <img class="img-fluid" src="{% static 'img/o3.jpg' %}" alt="">
+                    </div>
+
+                    <h4 class="mt-3">
+                        Web Design
+                    </h4>
+
+                    <p>
+                        Combining HTML, CSS, Bootstrap and Django Templates.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+{% endblock %}
