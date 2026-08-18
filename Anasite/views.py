@@ -11,4 +11,8 @@ def about_view(request):
 def contact_view(request):
     return render(request,'Anasite/contact.html')
 
-#def blog_view(request):
+# def blog_view(request):
+    return render(request,'blog/home.html')
+
+# def blog_view(request):
+    return render (request,'blo/single.html')
