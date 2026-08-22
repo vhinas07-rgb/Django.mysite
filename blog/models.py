@@ -4,7 +4,8 @@ from django.db import models
 
 # image =
 # author = 
-title = models.CharField(max_length=255)
+class Post(models.Model):
+    title = models.CharField(max_length=255)
 content = models.TextField()
 # tags = 
 # category = 
