@@ -2,6 +2,7 @@
 
 {% load static %}
 {% block content %}
+
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
 			CSS
@@ -15,7 +16,8 @@
 			<link rel="stylesheet" href="css/animate.min.css">
 			<link rel="stylesheet" href="css/owl.carousel.css">				
 			<link rel="stylesheet" href="css/main.css">
-\
+	
+			</header><!-- #header -->
 		  
 			<!-- start banner Area -->
 			<section class="relative about-banner">	
@@ -41,7 +43,7 @@
 							<div class="single-post row">
 								<div class="col-lg-12">
 									<div class="feature-img">
-										<img class="img-fluid" src="img/blog/feature-img1.jpg" alt="">
+										<img class="img-fluid" src="{{ post.image.url }}" alt="">
 									</div>									
 								</div>
 								<div class="col-lg-3  col-md-3 meta-details">
@@ -407,7 +409,6 @@
 			<!-- End post-content Area -->
 			
 			<!-- start footer Area -->		
-		
 			<!-- End footer Area -->	
 
 			<script src="js/vendor/jquery-2.2.4.min.js"></script>
@@ -424,6 +425,6 @@
 			<script src="js/owl.carousel.min.js"></script>							
 			<script src="js/mail-script.js"></script>	
 			<script src="js/main.js"></script>	
-		</body>
+		
 	</html>
 {% endblock %}

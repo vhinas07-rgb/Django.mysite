@@ -1,4 +1,7 @@
 from django.contrib import admin
 
-# Register your models here.
-# blog/admin.py
+from Anasite.models import Contact
+
+
+
+admin.site.register(Contact)

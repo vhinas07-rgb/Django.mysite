@@ -39,3 +39,5 @@ staticfiles/
 Thumbs.db
 __pycache__/
 *.pyc
+# Untracked
+media/
