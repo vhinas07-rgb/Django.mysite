@@ -2,8 +2,8 @@ from django.contrib import admin
 
 # Register your models here.
 from django.contrib import admin
-from .models import Post
-#@admin.register(Post)
+from .models import Post , Category
+
 class PostAdmin(admin.ModelAdmin):                      #فرخوانی دستی
     date_hierarchy = 'created_date'
     # fields = ('name' , 'title' , 'view_birth_date')
@@ -12,4 +12,7 @@ class PostAdmin(admin.ModelAdmin):                      #فرخوانی دستی
     list_filter= ('status','author')
     ordering = ['created_date',]
     search_fields=['title','content']
+
 admin.site.register(Post,PostAdmin)
+
+admin.site.register(Category)
