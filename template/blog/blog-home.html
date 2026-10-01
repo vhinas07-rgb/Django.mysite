@@ -135,13 +135,13 @@
 						<div class="feature-img">
 							<img class="img-fluid" src="{{ post.image.url }}" alt="">
 						</div>
-						<a class="posts-title" href="blog/test-{{post.id}}">
+						<a class="posts-title" href="{% url 'blog:single' post.id %}">
 							<h3>{{ post.title }}</h3>
 						</a>
 						<p class="excert">
 							{{ post.snipets }} 
 						</p>
-						<a href="blog-single.html" class="primary-btn">View More</a>
+						<a href="{% url 'blog:single' post.id %}" class="primary-btn">View More</a>
 					</div>
 				</div>
 				{% endfor %}
@@ -180,26 +180,16 @@
 					</form>
 				</div>
 			    {% include 'blog/blog-writer.html' %}
-				{% include 'blog/blog-writer.html' %}
+				
 
 
 				<div class="single-sidebar-widget popular-post-widget">
 					<h4 class="popular-title">Popular Posts</h4>
-					<div class="popular-post-list">
+					
+						{% include 'blog/blog-popular-posts.html' %}
 						<div class="single-post-list d-flex flex-row align-items-center">
 							<div class="thumb">
-								<img class="img-fluid" src="img/blog/pp1.jpg" alt="">
-							</div>
-							<div class="details">
-								<a href="blog-single.html">
-									<h6>Space The Final Frontier</h6>
-								</a>
-								<p>02 Hours ago</p>
-							</div>
-						</div>
-						<div class="single-post-list d-flex flex-row align-items-center">
-							<div class="thumb">
-								<img class="img-fluid" src="img/blog/pp2.jpg" alt="">
+								<img class="img-fluid" src="{{ post.image.url }}" alt="">
 							</div>
 							<div class="details">
 								<a href="blog-single.html">
